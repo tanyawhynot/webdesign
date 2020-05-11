@@ -41,12 +41,12 @@ div {
 
 .right-cloud {
   position: absolute;
-  right: 400px;
-  top: 50px;
+  right: 20%;
+  top: 15%;
 }
 
 .left-cloud {
   position: absolute;
-  left: 400px;
-  top: 175px;
+  left: 20%;
+  bottom: 40%;
 }
