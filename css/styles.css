@@ -15,11 +15,12 @@ div {
     font-family: 'Parisienne', cursive;
     font-size: 55px;
     padding-top: 20px;
+
   }
 
   h2 {
     font-family: 'Lato', sans-serif;
-  font-size: 25px;
+    font-size: 25px;
   }
 
   h3 {
@@ -50,4 +51,12 @@ div {
   position: absolute;
   left: 20%;
   bottom: 40%;
+}
+
+.skill-row {
+  line-height: 1.5;
+}
+
+.contact-me {
+  line-height: 1.5;
 }
